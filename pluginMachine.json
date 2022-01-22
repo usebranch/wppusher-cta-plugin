@@ -1,0 +1,19 @@
+{
+    "slug": "wp-pusher-cta-block",
+    "pluginId": 161,
+    "buildId": 167,
+    "entryPoints": {
+        "adminPages": [],
+        "blocks": [
+            "wppusher-cta"
+        ]
+    },
+    "buildIncludes": [
+        "wp-pusher-cta-block.php",
+        "readme.txt",
+        "php",
+        "vendor",
+        "build",
+        "blocks/wppusher-cta/init.php"
+    ]
+}
